@@ -1,0 +1,15 @@
+# Large WorldClim rasters cropped to South America
+inputs/WorldClim2.1_Sudamerica/*
+!inputs/WorldClim2.1_Sudamerica/README.md
+
+# R / RStudio temporary files
+.Rhistory
+.RData
+.Ruserdata/
+.Rproj.user/
+
+# Auxiliary raster/GIS files
+*.aux.xml
+*.ovr
+*.tmp
+*.tfw
