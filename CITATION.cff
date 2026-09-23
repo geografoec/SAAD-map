@@ -1,0 +1,52 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "SAAD-map"
+type: software
+
+authors:
+  - family-names: "Hurtado-Pidal"
+    given-names: "Jorge"
+    affiliation: "Universidad Regional Amazónica Ikiam"
+
+  - family-names: "Julio"
+    given-names: "Natalia"
+    affiliation: "Center for Climate and Resilience Research (CR2)"
+
+  - family-names: "Gayo"
+    given-names: "Eugenia M."
+    affiliation: "Center for Climate and Resilience Research (CR2)"
+
+  - family-names: "Rozas-Dávila"
+    given-names: "Angela"
+    affiliation: "Florida Institute of Technology"
+
+  - family-names: "Conicelli"
+    given-names: "Bruno"
+    affiliation: "University of São Paulo"
+
+  - family-names: "Valencia"
+    given-names: "Bryan G."
+    affiliation: "Universidad Regional Amazónica Ikiam"
+
+repository-code: "https://github.com/geografoec/SAAD-map"
+
+abstract: "Reproducible R workflow and geospatial products for the climate-based operational delineation of the South American Arid Diagonal (SAAD)."
+
+preferred-citation:
+  type: article
+  title: "Bridging the gap: from a conceptual region to an operational and reproducible delineation of the South American Arid Diagonal"
+  authors:
+    - family-names: "Hurtado-Pidal"
+      given-names: "Jorge"
+    - family-names: "Julio"
+      given-names: "Natalia"
+    - family-names: "Gayo"
+      given-names: "Eugenia M."
+    - family-names: "Rozas-Dávila"
+      given-names: "Angela"
+    - family-names: "Conicelli"
+      given-names: "Bruno"
+    - family-names: "Valencia"
+      given-names: "Bryan G."
+```
