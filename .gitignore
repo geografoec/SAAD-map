@@ -1,6 +1,6 @@
 # Large WorldClim rasters cropped to South America
-inputs/WorldClim2.1_Sudamerica/*
-!inputs/WorldClim2.1_Sudamerica/README.md
+inputs/WorldClim2.1_SouthAmerica/*
+!inputs/WorldClim2.1_SouthAmerica/README.md
 
 # R / RStudio temporary files
 .Rhistory
